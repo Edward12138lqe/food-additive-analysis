@@ -1,6 +1,5 @@
-
 # China Food Additive Industry Investment Analysis Tool
-https://github.com/edward12138lqe/food-additive-analysis.git
+https://github.com/edward12138lqe/food-additive-analysis
 ## 1. Problem & Target User
 
 Retail investors and equity analysts lack a centralized, interactive tool to compare financial performance and market positioning of publicly listed food additive companies in China. Key information — such as revenue, profitability margins, ROE, and segment market shares — is scattered across annual reports, third‑party research, and stock exchange filings. Extracting and normalizing this data manually is time‑consuming and error‑prone, often leading to incomplete or inconsistent cross‑company comparisons.
@@ -111,8 +110,7 @@ To replicate the analysis and run the interactive dashboard on your local machin
 
 ```bash
 # Clone the repository
-git clone
-https://github.com/edward12138lqe/food-additive-analysis.git
+git clone https://github.com/edward12138lqe/food-additive-analysis.git
 
 # Enter the project folder
 cd food-additive-analysis
@@ -122,7 +120,6 @@ pip install -r requirements.txt
 
 # Launch the Streamlit app
 streamlit run app.py
-The app will open at http://localhost:8501. Ensure Python 3.8+ is installed.
 
 6. Product Link (Primary Submission)
 GitHub repository (required): https://github.com/edward12138lqe/food-additive-analysis
