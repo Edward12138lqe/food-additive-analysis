@@ -1,7 +1,7 @@
 # China Food Additive Industry Investment Analysis Tool
 https://github.com/edward12138lqe/food-additive-analysis
 
-or simply clone belowto prompt , see details in part ##5: (if git installed )
+or simply clone below to a prompt , see details in part ##5: (if git installed )
 
 git clone https://github.com/edward12138lqe/food-additive-analysis.git
 
