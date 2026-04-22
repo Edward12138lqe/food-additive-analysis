@@ -1,5 +1,10 @@
 # China Food Additive Industry Investment Analysis Tool
 https://github.com/edward12138lqe/food-additive-analysis
+
+or
+
+git clone https://github.com/edward12138lqe/food-additive-analysis.git
+
 ## 1. Problem & Target User
 
 Retail investors and equity analysts lack a centralized, interactive tool to compare financial performance and market positioning of publicly listed food additive companies in China. Key information — such as revenue, profitability margins, ROE, and segment market shares — is scattered across annual reports, third‑party research, and stock exchange filings. Extracting and normalizing this data manually is time‑consuming and error‑prone, often leading to incomplete or inconsistent cross‑company comparisons.
