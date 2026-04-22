@@ -128,7 +128,7 @@ streamlit run app.py
 
 
 
-六. Product Link (Primary Submission)
+## 6. Product Link (Primary Submission)
 GitHub repository (required): https://github.com/edward12138lqe/food-additive-analysis
 
 
@@ -140,7 +140,7 @@ GitHub repository (required): https://github.com/edward12138lqe/food-additive-an
 
 
 
-七. Limitations & Future Improvements
+## 7. Limitations & Future Improvements
 Limitations
 Incomplete 2025 data: Several companies lack ROE or gross margin figures, limiting direct comparability.
 Single‑year snapshot: No historical trends (e.g., 2020‑2024) are available; growth analysis is restricted.
