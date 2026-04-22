@@ -128,22 +128,8 @@ streamlit run app.py
 
 
 
-
-
-
-
-
-
-
 六. Product Link (Primary Submission)
 GitHub repository (required): https://github.com/edward12138lqe/food-additive-analysis
-
-
-
-
-
-
-
 
 
 
