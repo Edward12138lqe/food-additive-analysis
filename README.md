@@ -111,36 +111,59 @@ To replicate the analysis and run the interactive dashboard on your local machin
 ```bash
 # Clone the repository
 git clone https://github.com/edward12138lqe/food-additive-analysis.git
-
 # Enter the project folder
 cd food-additive-analysis
-
 # Install dependencies
 pip install -r requirements.txt
-
 # Launch the Streamlit app
 streamlit run app.py
 
-6. Product Link (Primary Submission)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+六. Product Link (Primary Submission)
 GitHub repository (required): https://github.com/edward12138lqe/food-additive-analysis
 
-7. Limitations & Future Improvements
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+七. Limitations & Future Improvements
 Limitations
 Incomplete 2025 data: Several companies lack ROE or gross margin figures, limiting direct comparability.
-
 Single‑year snapshot: No historical trends (e.g., 2020‑2024) are available; growth analysis is restricted.
-
 Source inconsistency: Market size estimates vary across research firms – users should interpret with caution.
-
 Limited coverage: Only six representative companies; a broader index would be more comprehensive.
 
 Future improvements
 Collect historical data (2020‑2024) to enable trend analysis and CAGR calculation.
-
 Integrate yfinance API for real‑time stock prices and valuation metrics (PE, PB).
-
 Add data imputation or explicit flags for missing values.
-
 Expand company list to include more A‑share and HK‑listed food additive firms.
-
 Disclaimer: This tool is for educational purposes only and does not constitute investment advice. Data accuracy is not guaranteed.
