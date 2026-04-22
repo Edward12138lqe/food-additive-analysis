@@ -117,6 +117,8 @@ cd food-additive-analysis
 pip install -r requirements.txt
 # Launch the Streamlit app
 streamlit run app.py
+Alternative: If you don't have Git installed, click the green "Code" button and select "Download ZIP".
+Extract the folder, then follow the same steps above. But remember : the files' name needs to be changed to food_additive_analysis
 
 
 
